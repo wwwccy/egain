@@ -1,0 +1,4 @@
+ip_address,timestamp,page_visited,referrer,country,company,page_views
+203.0.113.1,2025-05-01 09:12:00,/products/chatbot,google.com,US,Acme Corp,5
+198.51.100.7,2025-05-02 14:03:00,/pricing,linkedin.com,UK,Beta Systems,3
+192.0.2.12,2025-05-03 17:20:00,/contact,direct,CA,Nova Industries,7
